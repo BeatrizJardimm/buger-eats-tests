@@ -1,0 +1,50 @@
+{
+    "valid_signup": {
+        "name": "biajard",
+        "cpf": "00000011122",
+        "email": "taylor13@hotmail.com",
+        "wpp": "41999999999",
+        "address": {
+            "postalcode": "87303220",
+            "street": "Rua Rocha Pombo",
+            "number": "2393",
+            "details": "Casa",
+            "district": "Centro",
+            "city_state": "Campo Mourão/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "beldamas",
+        "cpf": "000X00111AA",
+        "email": "taylor13@hotmail.com",
+        "wpp": "41999999999",
+        "address": {
+            "postalcode": "87303220",
+            "street": "Rua Rocha Pombo",
+            "number": "2393",
+            "details": "Casa",
+            "district": "Centro",
+            "city_state": "Campo Mourão/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "biajard",
+        "cpf": "00000011122",
+        "email": "taylor13.com",
+        "wpp": "41999999999",
+        "address": {
+            "postalcode": "87303220",
+            "street": "Rua Rocha Pombo",
+            "number": "2393",
+            "details": "Casa",
+            "district": "Centro",
+            "city_state": "Campo Mourão/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
